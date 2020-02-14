@@ -1,6 +1,6 @@
 {
   "name": "elm-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TypeScript types for Elm bundled apps.",
   "main": "index.ts",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ulisses-alves/elm-types/issues"
   },
