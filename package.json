@@ -1,0 +1,24 @@
+{
+  "name": "elm-types",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "tsc --noEmit ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulisses-alves/elm-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulisses-alves/elm-types/issues"
+  },
+  "homepage": "https://github.com/ulisses-alves/elm-types#readme",
+  "devDependencies": {
+    "typescript": "~3.7.5"
+  },
+  "dependencies": {}
+}
