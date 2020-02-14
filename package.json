@@ -1,7 +1,7 @@
 {
   "name": "elm-types",
   "version": "0.0.1",
-  "description": "",
+  "description": "TypeScript types for Elm bundled apps.",
   "main": "index.ts",
   "scripts": {
     "test": "tsc --noEmit ./index.ts"
